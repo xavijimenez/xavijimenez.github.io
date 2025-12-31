@@ -8,6 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Xavier  I love coding, and applying new ways to solve problems related to real world events. I like technology and the relationship it has with the various fields of knowledge.
+Hi, I'm Xavier.
 
-In this website, I would like to share my experience about topics and applications of statistics and data science at Blog Posts. Besides, the Portfolio contains my  projects. In Publications, I have uploaded my published paper. If you want to know more about me, you can download my resume at CV.
+I am a **Certified Public Accountant (CPA), Auditor, and Economist** with a strong background in quantitative methods. I hold a **Master's in Statistics and Operations Research** from UPC.
+
+My professional interests lie at the intersection of:
+
+* **Financial Auditing & Taxation:** Applying rigorous analysis to fiscal compliance.
+* **Information Systems & Data Science:** Leveraging technology to modernize risk assessment and decision-making.
+* **Law & Economics:** Understanding regulatory frameworks in Civil and Common Law systems.
+
+On this website, I document my journey combining these fields, sharing projects on applied mathematics, programming, and financial analysis.
