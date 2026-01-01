@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Xavier, a multidisciplinary professional navigating the convergence of finance, statistics, and information systems. My career is defined by a refusal to be pigeonholed into a single discipline; I am simultaneously a Statistician, an Economist, and a Certified Public Accountant (CPA). Currently, I am expanding my technical horizons by studying Information Systems at UTEQ, driven by the conviction that the future of financial oversight lies in robust, data-driven architectures. I am passionate about uncovering the mathematical logic behind complex systems, whether they are market fluctuations, auditing algorithms, or musical compositions.
+Hi, I'm Xavier, a multidisciplinary professional navigating the convergence of finance, statistics, and information systems.
+My career is defined by a refusal to be pigeonholed into a single discipline; I am simultaneously a Statistician, an Economist, and a Certified Public Accountant (CPA). 
+I am passionate about uncovering the mathematical logic behind complex systems, whether they are market fluctuations, auditing algorithms, or musical compositions.
 
 # My research interests
 
