@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  zenemijreivax             : &twitter
+  xavnez                    : &twitter
 LinkedIn:
   xavijimenez               : &linkedin
   app_id                 :
@@ -86,7 +86,7 @@ author:
   location         : "Quito, Ecuador"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.es/citations?hl=es&user=1DnPItwAAAAJ"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Xavier-Jimenez-Alban"
   uri              :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "xavijimenez"
-  orcid            : # "https://orcid.org/my-orcid?orcid=0000-0002-7227-9392"
+  orcid            : "https://orcid.org/0000-0002-7227-9392"
   pinterest        :
   soundcloud       :
   stackoverflow    : "https://stackoverflow.com/users/9100441/xavier-jiménez-albán"
   steam            :
   tumblr           :
-  twitter          : "zenemijreivax"
+  twitter          : "xavnez"
   vine             :
   weibo            :
   xing             :
@@ -176,7 +176,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
     output: true
