@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xavier Jiménez-Albán - Statistician, Economist, Accountant"
+title                    : "Xavier Jiménez-Albán"
 title_separator          : "-"
 name                     : &name "Xavier Jiménez Albán"
-description              : &description "personal description"
+description              : &description "Statistician, Economist, Accountant. Bridging Finance and Systems"
 url                      : https://xavijimenez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xavijimenez/xavijimenez.github.io"
